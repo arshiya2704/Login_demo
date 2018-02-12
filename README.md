@@ -12,5 +12,17 @@ Steps to run the application:
 
 Below are some screenshots demonstrating the application:
 
+### Welcome Page
+![](images/1.png)
 
+### Login
+![](images/2.png)
 
+### Login Successful
+![](images/3.png)
+
+### Register
+![](images/4.png)
+
+### Register Successful
+![](images/5.png)
