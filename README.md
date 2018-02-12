@@ -6,8 +6,9 @@ Login page using technologies:
 • Backend:  node.js
 • Database: MySQL
 
-Features:
-• Login
+Features: 
+
+• Login</br>
 • Register
 
 Steps to run the application:
