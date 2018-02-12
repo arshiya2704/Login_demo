@@ -4,6 +4,11 @@ Login page using technologies:
 
 • Frontend: ejs </br>
 • Backend:  node.js
+• Database: MySQL
+
+Features:
+• Login
+• Register
 
 Steps to run the application:
 1. Import the project in Eclipse
